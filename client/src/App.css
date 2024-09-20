@@ -12,6 +12,7 @@
  
  h1{
    color: red;
+
  
  }
  .inputdiv
@@ -120,7 +121,7 @@ h2{
   color: black;
  }
  .modelcontent{
-  border-radius: 10px;
+  border-radius: 15px;
   background-color: white;
   width: 35%;
   font-weight: bold;
